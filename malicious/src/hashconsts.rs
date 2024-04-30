@@ -1,0 +1,2 @@
+pub const KEY: u64 = 2901;
+pub const NTDLLDLL: u64 = 134799498440721981;
